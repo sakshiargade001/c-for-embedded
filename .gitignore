@@ -1,0 +1,4 @@
+*.o
+*.out
+*.exe
+00-hello/hello
